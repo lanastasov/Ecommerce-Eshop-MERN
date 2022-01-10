@@ -1,0 +1,23 @@
+{
+  "name": "eshop",
+  "version": "1.0.0",
+  "description": "MERN shopping cart app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lanastasov/Ecommerce-Eshop-MERN.git"
+  },
+  "author": "lanastasov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lanastasov/Ecommerce-Eshop-MERN/issues"
+  },
+  "homepage": "https://github.com/lanastasov/Ecommerce-Eshop-MERN#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
