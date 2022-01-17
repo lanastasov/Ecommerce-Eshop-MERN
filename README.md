@@ -15,3 +15,4 @@
 - PayPal / credit card integration
 - Custom database seeder script
 
+![ecommerce-eshop-mern-screenshot](https://user-images.githubusercontent.com/385682/149736650-0b02e304-32c2-46fe-b366-453e8cfefd37.png)
